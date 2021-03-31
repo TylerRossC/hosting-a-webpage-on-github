@@ -27,16 +27,21 @@ nav a {
   padding-left: 280px;
 }
 #car-photo {
-  display:block;
+  display:inline-block;
   width: 250px;
   height: 250px;
   margin-left: 400px;
+  position:relative;
+  bottom: 160px;
 }
 #destiny-photo {
   display:block;
   width: 350px;
   height: 225px;
   margin-left: 650px;
+  position:relative;
+  bottom: 400px;
+  padding-left: 20px;
   
 }
 #movie-photo {
@@ -44,5 +49,7 @@ nav a {
   width: 250px;
   height: 380px;
   margin-left: 1000px;
-  
+  position:relative;
+  bottom:700px;
+  padding-left: 40px;
 }
