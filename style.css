@@ -42,7 +42,6 @@ nav a {
   position:relative;
   bottom: 400px;
   padding-left: 20px;
-  
 }
 #movie-photo {
   display:block;
@@ -53,3 +52,16 @@ nav a {
   bottom:700px;
   padding-left: 40px;
 }
+#professionally {
+  text-align: center;
+  position: relative;
+  top: -450px;
+}
+#resume {
+  display: inline-block;
+  width: 800px;
+  height: 800px;
+}
+#contact-me {
+  display: table;
+  width: 100%;
